@@ -1,0 +1,3 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Definitions.STFTP3.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Nave.generated.h

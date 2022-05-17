@@ -1,0 +1,7 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Definitions.STFTP3.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Proyectil.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Proyectil.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

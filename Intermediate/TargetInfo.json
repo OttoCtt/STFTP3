@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "STFTP3",
+			"Path": "D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\STFTP3\\Source\\STFTP3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "STFTP3Editor",
+			"Path": "D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\STFTP3\\Source\\STFTP3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

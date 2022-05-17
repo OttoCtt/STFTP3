@@ -1,0 +1,30 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Definitions.STFTP3.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\NaveAereaPlayer.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\NaveAerea.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Nave.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\NaveAerea.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\NaveAereaPlayer.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Proyectil.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Proyectil.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Bala.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Bala.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Rayo.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Rayo.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Misil.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Misil.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\Bomba.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\Bomba.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

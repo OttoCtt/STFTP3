@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-STFTP3-0048.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\STFTP3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Nave.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAcuatica.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAerea.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAereaEnemigo1.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAereaPlayer.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveTerrestre.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Proyectil.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\STFTP3.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\STFTP3GameModeBase.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Nave.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAcuatica.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAerea.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAereaEnemigo1.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveAereaPlayer.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\NaveTerrestre.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Proyectil.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\STFTP3.init.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\STFTP3GameModeBase.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Default.rc2.res"
+/OUT:"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\UE4Editor-STFTP3-0048.lib"

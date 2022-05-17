@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\STFTP3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BCE37042-F317-4523-A372-047FC82B655F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\STFTP3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\STFTP3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{70D996B5-DD16-46D1-ABB0-960B066A7AB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\STFTP3">
+      <UniqueIdentifier>{781943C7-6336-4BAC-9E05-8FCBFC17DD6A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\STFTP3\Bala.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Bala.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\Bomba.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Bomba.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\InventoryActor.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\InventoryActor.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\Misil.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Misil.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\Nave.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Nave.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAcuatica.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAcuatica.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAcuaticaEnemigo1.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAcuaticaEnemigo1.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAerea.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAerea.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAereaEnemigo1.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAereaEnemigo1.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAereaEnemigo2.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAereaEnemigo2.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveAereaPlayer.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveAereaPlayer.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveTerrestre.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveTerrestre.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveTerrestreEnemigo1.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveTerrestreEnemigo1.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\NaveTerrestreEnemigo2.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\NaveTerrestreEnemigo2.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\Proyectil.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Proyectil.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\Rayo.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\Rayo.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\STFTP3\STFTP3.Build.cs">
+      <Filter>Source\STFTP3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\STFTP3\STFTP3.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\STFTP3.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\STFTP3\STFTP3GameModeBase.cpp">
+      <Filter>Source\STFTP3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\STFTP3\STFTP3GameModeBase.h">
+      <Filter>Source\STFTP3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

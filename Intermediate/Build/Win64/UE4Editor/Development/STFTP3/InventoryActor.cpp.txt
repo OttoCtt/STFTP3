@@ -1,0 +1,5 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Development\STFTP3\Definitions.STFTP3.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Source\STFTP3\InventoryActor.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\STFTP3\Intermediate\Build\Win64\UE4Editor\Inc\STFTP3\InventoryActor.generated.h
